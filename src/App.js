@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Github, 
@@ -179,8 +180,8 @@ const Portfolio = () => {
             </div>
 
             <div className="flex gap-6 pt-8 text-slate-400">
-              <a href="#" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Github size={24} /></a>
-              <a href="#" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Linkedin size={24} /></a>
+              <a href="https://github.com/drshtijivan" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Github size={24} /></a>
+              <a href="https://www.linkedin.com/in/drashti-j-7a856a242/" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Linkedin size={24} /></a>
               <a href="mailto:jivanidrashti2004@gmail.com" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Mail size={24} /></a>
             </div>
           </div>
@@ -682,7 +683,7 @@ const Portfolio = () => {
                 </div>
               </a>
 
-               <div className="flex items-center gap-3 px-6 py-4 bg-slate-800 rounded-xl w-full md:w-auto">
+               <div className="flex items-center gap-3 px-6 py-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-all w-full md:w-auto rounded-xl w-full md:w-auto">
                 <div className="p-2 bg-fuchsia-500/10 rounded-full text-fuchsia-400"><MapPin size={20} /></div>
                 <div className="text-left">
                   <div className="text-xs text-slate-500">Location</div>
