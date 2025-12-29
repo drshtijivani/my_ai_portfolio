@@ -180,7 +180,7 @@ const Portfolio = () => {
             </div>
 
             <div className="flex gap-6 pt-8 text-slate-400">
-              <a href="https://github.com/drshtijivan" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Github size={24} /></a>
+              <a href="https://github.com/drshtijivani" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Github size={24} /></a>
               <a href="https://www.linkedin.com/in/drashti-j-7a856a242/" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Linkedin size={24} /></a>
               <a href="mailto:jivanidrashti2004@gmail.com" className="hover:text-cyan-400 transition-colors hover:scale-110 transform"><Mail size={24} /></a>
             </div>
